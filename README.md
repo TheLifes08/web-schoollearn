@@ -1,2 +1,5 @@
 # web-schoollearn
-Online education platform "Schoollearn"
+
+Платформа онлайн-обучения "Schoollearn".
+
+Проект заброшен.
