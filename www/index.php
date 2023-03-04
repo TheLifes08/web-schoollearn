@@ -44,22 +44,6 @@ include($href_main."include/header.php");
 <!------------------------- ГЛАВНЫЙ БЛОК ------------------------->
 
 <section>	
-
-	
-	
-	<!--<p>
-	Предположим, что тело, двигаясь равномерно и прямолинейно со скоростью
-<span class="arrow">v</span>, переместилось
-за время
-t
-из точки
-M<sub>0</sub>
-в точку
-M
-(рис. 1.14). Вектор перемещения есть
-<img src="/img/phys/img1.png"/>
-	</p>
--->
 	<div class="section_block_image" style="height: 364px;">
 			<img id="start_main_image"src="img/start.png" />
 	</div>
